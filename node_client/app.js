@@ -36,7 +36,7 @@ const loadUsdSceneAtStart = true;
 if (loadUsdSceneAtStart) {
   // Load USD scene at the start
   const serverUrl = 'http://localhost:8011';
-  const usdScenePath = 'C:/Users/houar/Desktop/Active Projects/audio2face/stream-livelink.usd'; // Replace with your USD scene path
+  const usdScenePath = 'D:/Code/text-to-audio2face/stream-livelink.usd'; // Replace with your USD scene path
   loadUsdScene(serverUrl, usdScenePath);
 }
 

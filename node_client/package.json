@@ -13,11 +13,13 @@
   "dependencies": {
     "@grpc/grpc-js": "^1.9.9",
     "@grpc/proto-loader": "^0.7.10",
+    "axios": "^1.6.3",
+    "body-parser": "^1.20.2",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "ffmpeg-static": "^5.2.0",
     "fluent-ffmpeg": "^2.1.2",
-    "openai": "^4.18.0",
+    "openai": "^4.24.1",
     "playht": "^0.9.5"
   }
 }
