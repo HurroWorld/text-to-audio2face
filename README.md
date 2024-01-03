@@ -1,5 +1,5 @@
 ## Overview
-Text2Audio2Face is a Node.js application designed to convert text into speech and then stream the audio to the Audio2Face Streaming Audio Player for real-time facial animation. 
+text-to-Audio2Face is a Node.js application designed to convert text into speech and then stream the audio to the Audio2Face Streaming Audio Player for real-time facial animation. 
 
 ### Features
 - Toggle between manual mode, where they input their text directly, and AI mode, which utilizes ChatGPT for generating text based on prompts.
